@@ -18,4 +18,4 @@ spec:
         - name: tetris
           image: harmeesh/tetrisv2
           ports:
-            - containerPort: 80
+            - containerPort: 80 #default port can be change
