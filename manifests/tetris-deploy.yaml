@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: tetris
-          image: harmeesh/tetrisv2
+          image: harmeesh/tetrisv2 #harmeesh/tetris is it's version1
           ports:
             - containerPort: 80 #default port can be change
